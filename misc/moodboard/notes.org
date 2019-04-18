@@ -1,0 +1,22 @@
+- References:
+  - http://agilevisualization.com
+  - [[https://www.youtube.com/watch?v=2ZHuj8uBinM][Social network analysis - Introduction to structural thinking]] (best)
+  - [[https://www.youtube.com/watch?v=gcfAT8aMxuQ][Gephi Tutorial - How to use Gephi for Network Analysis]] (awesome viz)
+  - [[https://www.youtube.com/watch?v=ei3YEn8xUnI][Social Network Analysis The Basics]] (also good)
+  - [[https://www.youtube.com/watch?v=89mxOdwPfxA][Network Structure]] (good topology concepts)
+  - [[https://www.youtube.com/watch?v=DfV-pjRTlLg][Network Analysis. Lecture 5. Centrality measures.]] (whole course in playlist)
+  - [[https://www.youtube.com/watch?v=HmQR8Xy9DeM][Graph Theory - An Introduction!]] (from patrickJMT)
+  - [[https://www.youtube.com/watch?v=IiUDKDxScxI][Introduction to Social Network Analysis]]
+  - [[https://www.youtube.com/watch?v=fgr_g1q2ikA][Social Network Analysis Overview]]
+  - [[https://www.youtube.com/watch?v=Lyi5BAkStDQ][What is Social Network Analysis? by Prof Martin Everett]]
+  - [[https://www.youtube.com/watch?v=wadBvDPeE4E][Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence]]
+  - [[https://www.youtube.com/watch?v=1xLjYc7EUEU][Modeling Complex Social Networks: Challenges & Opportunities for Statistical Learning & Inference]]
+  - [[https://www.youtube.com/watch?v=qgGqaBAEy3Q][Social Network Analysis with Python]]
+  - [[https://www.youtube.com/watch?v=B9nw0MYtDI8][Social Network Analysis]]
+  - [[https://www.youtube.com/watch?v=gcfAT8aMxuQ][Gephi Tutorial - How to use Gephi for Network Analysis]]
+  - [[https://systemsacademy.io/courses/network-theory/][Network Theory Introduction]]
+  - [[https://www.youtube.com/watch?v=NgUj8DEH5Tc][Network Centrality]]
+  - [[https://www.youtube.com/watch?v=TPxCkuSal8c][Webinar: An Introduction to Social Network Analysis in Psychology]]
+  - [[https://www.youtube.com/watch?v=Qj2uWpYsdcM&list=PL1M5TsfDV6Vs7tnHGNgowEUwJW-O8QVp5][Mod-U social network analysis playlist]]
+  - [[https://www.youtube.com/watch?v=XNw-DZFsFYA][R Lab.1 - Let's Draw a Social Network Graph: A Social Network Lab in R for Beginners]]
+  - [[https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)][Graph (discrete mathematics)]]

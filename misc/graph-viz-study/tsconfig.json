@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es2018", "dom"],
+    // "outFile": "./",
+    // "outDir": "./",
+    // "rootDir": "./src",
+    // "noEmit": true,
+    // "importHelpers": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "esModuleInterop": true
+  }
+}

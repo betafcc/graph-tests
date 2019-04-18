@@ -1,0 +1,28 @@
+{
+  "name": "util2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Beta Faccion <betafcc@gmail.com> (https://github.com/betafcc)",
+  "license": "MIT",
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "d3": "^5.9.2",
+    "d3-force": "^2.0.1",
+    "d3-scale": "^3.0.0",
+    "d3-selection-multi": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/d3": "^5.7.2",
+    "@types/d3-force": "^1.2.1",
+    "@types/d3-scale": "^2.1.1",
+    "@types/d3-selection-multi": "^1.0.7",
+    "typescript": "^3.4.1"
+  }
+}
